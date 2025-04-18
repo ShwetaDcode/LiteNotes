@@ -36,7 +36,7 @@
                 </div>
             @endif
 
-            <h1>Litelette</h1>
+            <h1>LiteNotes</h1>
         <style>
             h1{
                 text-align: center;
