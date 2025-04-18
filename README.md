@@ -1,4 +1,4 @@
-# Litelette
+# LiteNotes
 
 A modern, lightweight note-taking web application built with **Laravel 9**, **Docker**, and **TablePlus** for developers and productivity enthusiasts.
 
